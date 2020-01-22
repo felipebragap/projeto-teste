@@ -19,9 +19,7 @@ namespace projeto_teste
 
         private void btnSoma_Click(object sender, EventArgs e)
         {
-            // teste do GIT
-
-
+           
             // verifica se o operador foi escolhido
             if(cmbOperador.Text != "")
             {
